@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HealthCareApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="chat_message">Hello, I have an issue i want to discus</string>
+    <string name="health_care">Health Care</string>
+</resources>

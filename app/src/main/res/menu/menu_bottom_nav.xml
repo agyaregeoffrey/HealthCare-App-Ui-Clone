@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/ic_outline_home_24"
+        android:enabled="true" />
+
+    <item android:id="@+id/menu_chat"
+        android:title="Chats"
+        android:icon="@drawable/ic_outline_chat_bubble_outline_24"
+        android:enabled="true" />
+
+    <item android:id="@+id/menu_bookmark"
+        android:title="Bookmarks"
+        android:icon="@drawable/ic_baseline_bookmark_border_24"
+        android:enabled="true" />
+
+    <item android:id="@+id/menu_more"
+        android:title="More"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:enabled="true" />
+</menu>

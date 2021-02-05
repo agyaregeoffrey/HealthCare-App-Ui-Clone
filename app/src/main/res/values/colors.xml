@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A4D7F</color>
+    <color name="colorPrimaryDark">#23355F</color>
+    <color name="colorAccent">#4671C6</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="textColorPrimary">@color/white</color>
+    <color name="editTextBg">@color/colorPrimary</color>
+
+
+    <color name="dep_image_bg">#51669E</color>
+    <color name="chat_time">#7B88A9</color>
+    <color name="gray">#A9A9A9</color>
+</resources>
